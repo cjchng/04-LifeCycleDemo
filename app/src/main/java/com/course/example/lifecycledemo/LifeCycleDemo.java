@@ -3,6 +3,7 @@
  * The OS will destroy the Activity and then reinitialize it. 
  * This will cause onRestoreInstanceState() to be called.
 */
+//modified by cj@03/04/2017
 package com.course.example.lifecycledemo;
 
 import android.app.Activity;
